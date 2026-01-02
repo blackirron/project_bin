@@ -1,8 +1,5 @@
 Minimal Container Runtime
 
-Author: Samir Nimgade
-Institute: IIT (ISM) Dhanbad
-
 Overview
 
 A lightweight Linux container runtime built from first principles.
