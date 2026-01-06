@@ -1,0 +1,15 @@
+# Python stuff
+__pycache__/
+*.pyc
+
+# Virtual envs
+.venv/
+venv/
+
+# OS / editor noise
+.DS_Store
+.vscode/
+.idea/
+
+# Generated files
+rootfs/
