@@ -46,3 +46,7 @@ chmod +x scripts/setup_rootfs.sh
 Objective
 
 This project is designed for learning, clarity, and correctness, focusing on how container isolation actually works at the OS level rather than abstract tooling.
+
+## Status
+ -> This project is complete and intended for educational and academic
+evaluation purposes.
